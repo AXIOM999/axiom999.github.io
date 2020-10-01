@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://axiom999.github.io</id>
     <title>AXIOM极帝</title>
-    <updated>2020-10-01T06:37:11.976Z</updated>
+    <updated>2020-10-01T06:39:44.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://axiom999.github.io"/>
     <link rel="self" href="https://axiom999.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://axiom999.github.io/images/avatar.png</logo>
     <icon>https://axiom999.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, AXIOM极帝</rights>
+    <entry>
+        <title type="html"><![CDATA[hello]]></title>
+        <id>https://axiom999.github.io/post/hello/</id>
+        <link href="https://axiom999.github.io/post/hello/">
+        </link>
+        <updated>2020-10-01T06:37:57.000Z</updated>
+        <content type="html"><![CDATA[<p>welcome to axiom</p>
+]]></content>
+    </entry>
 </feed>
